@@ -4,7 +4,7 @@ Foi desenvolvido um jogo 2D, onde há 3 fases, controlamos Um personagem que pre
 
 Abaixo está a imagem do jogo aberto, onde o personagem principal "Rick" precisa atravessar o labirinto para passar de fase.
 
-![Meu Logo](./images/imagemjogo.png "Tela princiapal do jogo")
+![Meu Logo](./images/Imagemjogo.png "Tela princiapal do jogo")
 
 Para executar esse jogo é necessário, ter o javac/JDK instalado em sua máquina:
 
