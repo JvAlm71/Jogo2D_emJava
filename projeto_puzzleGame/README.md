@@ -1,6 +1,6 @@
 
 / - - -   - - -   - - -   - - -   - - -   - - -   - - -   - - -     - - -     - - -  
-| Jogo desenvolvido por Joao Victor & Lucas Duarte 
+| Jogo desenvolvido por Joao Victor 
 | - Aperte R caso queira resetar a fase
 | - Aperte I caso queira resetar o jogo todo (ir para a fase 1) 
 | - Aperte S caso queira salvar 
@@ -16,6 +16,14 @@ Logo, funcionalidades estão implementadas com certa proximidade, como:
     -> Save do jogo e fuga nos exceptions
     -> ademais exemplos
 
+Para executar esse jogo é necessário, ter o javac/JDK instalado em sua máquina:
+
+1 - Ir para a pasta projeto_puzzleGame
+2 - Ir para a pasta src
+3 - Na pasta source escrever no terminal "javac Main.java"
+4 - Após isso, no terminal "java Main"
+
+Se divirta!!1
 
  -> Save:
 	Caso haja algum problema com o save, apague o arquivo "saveGame.ser" 	dentro do diretório do jogo e rode o jogo novamente.
